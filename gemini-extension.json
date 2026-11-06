@@ -1,0 +1,14 @@
+{
+  "name": "flowie",
+  "version": "1.0.0",
+  "description": "AI procure-to-pay for SMEs to groups: build, send and receive compliant e-invoices in 150 countries via Sovos, intake-to-pay and SRM.",
+  "mcpServers": {
+    "flowie": {
+      "httpUrl": "https://back.p2p-flowie.com/agent-hub/mcp"
+    },
+    "flowie-exchange": {
+      "httpUrl": "https://back.p2p-flowie.com/exchange/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
