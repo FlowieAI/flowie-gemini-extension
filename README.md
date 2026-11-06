@@ -30,5 +30,5 @@ Both are listed on the official MCP Registry as `com.get-flowie/app` and `com.ge
 ## Links
 
 - Docs: https://docs.get-flowie.com/mcp.md
-- Security: https://get-flowie.com/trust (GDPR, EU hosting)
+- Security: https://get-flowie.com/trust (ISO 27001 under Sovos, GDPR, EU hosting)
 - Website: https://get-flowie.com
