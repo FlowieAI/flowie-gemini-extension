@@ -1,6 +1,6 @@
 # Flowie for Gemini CLI
 
-AI procure-to-pay for SMEs to multi-entity groups, from your terminal: build, send and receive compliant e-invoices in **150 countries through Sovos**, and run everything from intake to pay, plus supplier relationship management (SRM).
+**Send compliant invoices in 150 countries through Sovos, from your terminal.** AI order-to-cash and procure-to-pay for SMEs to multi-entity groups: create and send customer invoices, follow them to payment, receive supplier invoices, and run everything from intake to pay plus supplier relationship management (SRM).
 
 ```bash
 gemini extensions install https://github.com/FlowieAI/flowie-gemini-extension
@@ -11,6 +11,7 @@ The first time Gemini calls a Flowie tool, your browser opens to sign in to Flow
 ## What you can ask
 
 - "Invoice Acme for 12 hours of consulting at 150 euros."
+- "Which customer invoices are overdue?"
 - "What is waiting for my approval?"
 - "Order 20 laptops from our catalog."
 - "Which suppliers were onboarded this month?"
